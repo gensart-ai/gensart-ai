@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Genes Saret Johnes, I'm usually called Genes.
+- 👋 Hi, I’m Genes Saret Johnes, usually called Genes.
 - 👀 I’m now interested in Unsupervised Machine Learning 🧠 and Mobile Apps Design & Prototyping 📱
 - 🌱 I’m currently learning Web Development 🖥️, road to Progressive Web Apps ⚛️
 - 💞️ I’m looking to collaborate with anyone who wants to learn together with anything in code.
