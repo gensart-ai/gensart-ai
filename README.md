@@ -2,7 +2,7 @@
 gensart-ai/gensart-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Genesaret Johnes here  🙋‍♂️ !
+## Talk is cheap ! Show me the code. ~ Linus .T
 [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/gensart.ai)](https://instagram.com/gensart.ai)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&link=https://t.me/gensart)](https://t.me/gensart)
 [![Gmail Badge](https://img.shields.io/badge/-G--Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:geneshsarretsarretret@gmail.com)](mailto:geneshsarretsarretret@gmail.com?subject=%5BFrom%20GitHub%5D&body=Hello%2C%20i%20wanna%20contact%20you%20about%20%3A) 
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align='left'>I am now an internship at <a href="https://naafi.id">naafi.id</a>. For the future, I'm on re-roadmapping to create ai-and-quantum-com skill</p>
 By the way, maybe you are here want to have some kind of things to know :
 
-- 👋 God named me Genesaret Johnes, usually people called me Genes.
+- 👋 God blessed me with the name is Genesaret Johnes, usually people called me Genes.
 - 👀 I’m in interested with Machine Learning 🧠, Natural Language Processing 🗣, and Computer Vision 👁‍🗨
 - 🌱 I’m currently on learning and fall in Web Development project 🖥️ using CodeIgniter 4, road to Progressive Web Apps / Native Apps ⚛️
 - 💞️ I’m looking to collaborate with anyone who wants to learn together with anything in code.
