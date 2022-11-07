@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align='left'>I am now an internship at <a href="https://naafi.id">naafi.id</a>. For the future, I'm on re-roadmapping to create ai-and-quantum-com skill</p>
 By the way, maybe you are here want to have some kind of things to know :
 
-- 👋 God blessed me with the name is Genesaret Johnes, usually people called me Genes.
+- 👋 God blessed me with the name Genesaret Johnes, usually people called me Genes.
 - 👀 I’m in interested with Neural Network 🧠, Natural Language Processing 🗣, and Computer Vision 👁‍🗨
 - 🌱 I’m currently on learning and fall in Web Development area 🖥️ using CodeIgniter 4 ⚛️
 - 💞️ I’m looking to collaborate with anyone who wants to learn together with anything in code.
