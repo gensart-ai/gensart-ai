@@ -13,7 +13,7 @@ By the way, maybe you are here want to have some kind of things to know :
 
 - 👋 God blessed me with the name is Genesaret Johnes, usually people called me Genes.
 - 👀 I’m in interested with Neural Network 🧠, Natural Language Processing 🗣, and Computer Vision 👁‍🗨
-- 🌱 I’m currently on learning and fall in Web Development project 🖥️ using CodeIgniter 4, hopefully it goes to AI-driven apps ⚛️
+- 🌱 I’m currently on learning and fall in Web Development area 🖥️ using CodeIgniter 4 ⚛️
 - 💞️ I’m looking to collaborate with anyone who wants to learn together with anything in code.
 - 📫 Don't be hesitated to reach me on Instagram or Facebook ! 💌<br/><br/>
 
@@ -21,5 +21,4 @@ By the way, maybe you are here want to have some kind of things to know :
 
 ## gensart-ai GitHub Statistics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=gensart-ai&show_icons=true&include_all_commits=true)](https://github.com/gensart-ai/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gensart-ai&layout=compact)](https://github.com/gensart-ai/github-readme-stats)
