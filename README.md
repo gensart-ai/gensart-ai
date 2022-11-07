@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 [![Gmail Badge](https://img.shields.io/badge/-G--Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:geneshsarretsarretret@gmail.com)](mailto:geneshsarretsarretret@gmail.com?subject=%5BFrom%20GitHub%5D&body=Hello%2C%20i%20wanna%20contact%20you%20about%20%3A) 
 [![Github Badge](https://img.shields.io/badge/gensart--ai-%20classy%20since%202017-blue?style=for-the-badge&logo=github&link=https://github.com/gensart-ai/)](https://www.github.com/gensart-ai/)<br/>
 [![github view counter](https://komarev.com/ghpvc/?username=gensart-ai&label=Viewed+:&style=for-the-badge&link=https:github.com/gensart-ai)](https://github.com/gensart-ai)
-<p align='left'>I am now an internship at <a href="https://naafi.id">naafi.id</a>. For the future, I'm on re-roadmapping to create ai-and-quantum-com skill</p>
+<p align='left'>I am just a junior software dev at <a href="https://naafi.co.id">Naafi Interkoneksi</a>. For the future, I'm on re-roadmapping to create ai-and-quantum-com skill</p>
 By the way, maybe you are here want to have some kind of things to know :
 
 - 👋 God blessed me with the name Genesaret Johnes, usually people called me Genes.
