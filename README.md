@@ -13,7 +13,7 @@ By the way, maybe you are here want to have some kind of things to know :
 
 - 👋 God blessed me with the name Genesaret Johnes, usually people called me Genes.
 - 👀 I’m in interested with Neural Network 🧠, Natural Language Processing 🗣, and Computer Vision 👁‍🗨
-- 🌱 I’m currently on learning and fall in Web Development area 🖥️ using CodeIgniter 4 ⚛️
+- 🌱 I’m currently on learning and fall in Android Development 📱 using Jetpack Compose ⚛️
 - 💞️ I’m looking to collaborate with anyone who wants to learn together with anything in code.
 - 📫 Don't be hesitated to reach me on Instagram or Facebook ! 💌<br/><br/>
 
