@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 ### Talk is cheap! Show me the code. ~ Linus .T
 [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/gensart.ai)](https://instagram.com/gensart.ai)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&link=https://t.me/gensart)](https://t.me/gensart)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=008DD4&color=008DD4)](https://www.linkedin.com/in/gensart/)
 [![Gmail Badge](https://img.shields.io/badge/-G--Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:geneshsarretsarretret@gmail.com)](mailto:geneshsarretsarretret@gmail.com?subject=%5BFrom%20GitHub%5D&body=Hello%2C%20i%20wanna%20contact%20you%20about%20%3A) 
 [![Github Badge](https://img.shields.io/badge/gensart--ai-%20classy%20since%202017-blue?style=for-the-badge&logo=github&link=https://github.com/gensart-ai/)](https://www.github.com/gensart-ai/)<br/>
 [![github view counter](https://komarev.com/ghpvc/?username=gensart-ai&label=Viewed+:&style=for-the-badge&link=https:github.com/gensart-ai)](https://github.com/gensart-ai)<br/>
