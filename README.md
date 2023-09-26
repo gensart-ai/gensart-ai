@@ -12,15 +12,15 @@ You can click the Preview link to take a look at your changes.
 <p align='left'>I am just a junior software dev or most people call me a Professional Google Searcher 😆. Well, I'm just an IT enthusiast you know</p>
 By the way, maybe you are here want to have some kind of things to know :
 
-- 👋 God blessed me with the name Genesaret Johnes. Usually, people called me Genes.
+- 👋 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
 - 👀 I’m in interested making tech collaborate well with the environment, and make useful things for mankind.
-- 🌱 I’m currently on learning into JavaScript environment 📱 using Node JS, TypeScript, and Express ⚛️
+- 🌱 I’m currently learning in JavaScript environment 📱 using Node JS, and on planning to go Python too 🐍
 - 💞️ I’m looking to collaborate with anyone who wants to learn together or create an open-source project
 - 📫 Don't hesitate to reach me on Instagram or Facebook! 💌 No worry, I followed you back !<br/><br/>
 
 ![](https://img.shields.io/badge/%22put%20the%20code%20back%20to%20fun.%22-~%20genes-navy?style=for-the-badge)
 
-### Languages I have and still learn until now :
+### Languages I have and still learning recently :
 <a href='https://php.net' target="_blank"><img alt='php' src='https://img.shields.io/badge/PHP-100000?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=9263FF&color=9263FF'/></a>
 <a href='https://javascript.com' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/JavaScript-100000?style=flat-square&logo=javascript&logoColor=000000&labelColor=FFE417&color=FFE417'/></a>
 <a href='https://python.org' target="_blank"><img alt='python' src='https://img.shields.io/badge/Python-100000?style=flat-square&logo=python&logoColor=FFDA1C&labelColor=306998&color=306998'/></a>
@@ -28,14 +28,13 @@ By the way, maybe you are here want to have some kind of things to know :
 <a href='https://typescriptlang.org' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/TypeScript-100000?style=flat-square&logo=typescript&logoColor=FFFFFF&labelColor=306998&color=306998'/></a>
 <a href='https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office' target="_blank"><img alt='visualbasic' src='https://img.shields.io/badge/VBA_For_Excel-100000?style=flat-square&logo=visualbasic&logoColor=FFFFFF&labelColor=512BD4&color=512BD4'/></a>
 
-### Frameworks that I recently used for dev :
+### Frameworks that I recently used for dev:
 <a href='https://codeigniter.com' target="_blank"><img alt='codeigniter' src='https://img.shields.io/badge/CodeIgniter_4-100000?style=flat-square&logo=codeigniter&logoColor=FFFFFF&labelColor=EF4223&color=EF4223'/></a>
 <a href='https://flask.palletsprojects.com/en/2.3.x/' target="_blank"><img alt='flask' src='https://img.shields.io/badge/Flask-100000?style=flat-square&logo=flask&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a>
 <a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://img.shields.io/badge/Node_JS-100000?style=flat-square&logo=nodedotjs&logoColor=FFFFFF&labelColor=339933&color=339933'/></a>
 <a href='https://expressjs.com/' target="_blank"><img alt='express' src='https://img.shields.io/badge/Express_JS-100000?style=flat-square&logo=express&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a>
 <a href='https://getbootstrap.com' target="_blank"><img alt='bootstrap' src='https://img.shields.io/badge/Bootstrap_4 & 5-100000?style=flat-square&logo=bootstrap&logoColor=FFFFFF&labelColor=671ED4&color=671ED4'/></a>
 <a href='https://jquery.com' target="_blank"><img alt='jquery' src='https://img.shields.io/badge/jQuery-100000?style=flat-square&logo=jquery&logoColor=0769AD&labelColor=E7E7E7&color=DDDDDD'/></a>
-<a href='https://keycloak.org' target="_blank"><img alt='Keycloak SSO' src='https://img.shields.io/badge/Keycloak_for SSO-100000?style=flat-square&logo=openid&logoColor=1C8AFF&labelColor=D7D7D7&color=5C5C5C'/></a>
 
 ### Software I use for daily life :
 <a href='https://www.adobe.com/id_en/products/photoshop/landpa.html' target="_blank"><img alt='adobephotoshop' src='https://img.shields.io/badge/Photoshop-100000?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=000B1D&color=000B1D'/></a>
@@ -44,5 +43,6 @@ By the way, maybe you are here want to have some kind of things to know :
 <a href='https://microsoft.com' target="_blank"><img alt='windows10' src='https://img.shields.io/badge/Windows_10-100000?style=for-the-badge&logo=windows10&logoColor=76B8DD&labelColor=083252&color=083252'/></a>
 <a href='https://debian.org' target="_blank"><img alt='debian' src='https://img.shields.io/badge/Debian_Bullseye 11-100000?style=for-the-badge&logo=debian&logoColor=A81D33&labelColor=FFFFFF&color=FFFFFF'/></a>
 
-### gensart-ai GitHub Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gensart-ai&layout=compact)](https://github.com/gensart-ai/github-readme-stats)
+### GitHub Profile Performance
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gensart-ai&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gensart-ai&theme=radical&layout=compact)
