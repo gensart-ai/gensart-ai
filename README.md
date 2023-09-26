@@ -18,7 +18,8 @@ By the way, maybe you are here want to have some kind of things to know :
 - 💞️ I’m looking to collaborate with anyone who wants to learn together or create an open-source project
 - 📫 Don't hesitate to reach me on Instagram or Facebook! 💌 No worry, I followed you back !<br/><br/>
 
-![](https://img.shields.io/badge/%22put%20the%20code%20back%20to%20fun.%22-~%20genes-navy?style=for-the-badge)
+<p>Link to my personal website :</p>
+<a href='https://gensart.super.site' target="_blank"><img alt='' src='https://img.shields.io/badge/Personal Website ↗-100000?style=for-the-badge&logo=&logoColor=white&labelColor=F72020&color=3B0EBA'/></a>
 
 ### Languages I have and still learning recently :
 <a href='https://php.net' target="_blank"><img alt='php' src='https://img.shields.io/badge/PHP-100000?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=9263FF&color=9263FF'/></a>
