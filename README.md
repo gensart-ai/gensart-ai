@@ -15,7 +15,7 @@ By the way, maybe you are here want to have some kind of things to know :
 
 - 👋 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
 - 👀 I’m in interested making tech collaborate well with the environment, and make useful things for mankind.
-- 🌱 I’m currently learning in JavaScript environment 📱 using Node JS, and on planning to go Python too 🐍
+- 🌱 I’m currently idle on Gaming 📱 with ```else Heart.Break()```.
 - 💞️ I’m looking to collaborate with anyone who wants to learn together or create an open-source project
 - 📫 Don't hesitate to reach me on Instagram or Facebook! 💌 No worry, I followed you back !<br/><br/>
 
