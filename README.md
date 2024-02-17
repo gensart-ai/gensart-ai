@@ -10,12 +10,12 @@ You can click the Preview link to take a look at your changes.
 [![Github Badge](https://img.shields.io/badge/gensart--ai-%20classy%20since%202017-blue?style=for-the-badge&logo=github&link=https://github.com/gensart-ai/)](https://www.github.com/gensart-ai/)<br/>
 [![github view counter](https://komarev.com/ghpvc/?username=gensart-ai&label=Viewed+:&style=for-the-badge&link=https:github.com/gensart-ai)](https://github.com/gensart-ai)<br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&vCenter=true&width=435&lines=Junior+Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Professional+Google+Searcher+%F0%9F%98%81;Instant+Noodle+Killer+%F0%9F%8D%9C;Non-Coffee+People+%F0%9F%8D%B5;Lo-Fi+Music+Lover+%F0%9F%8E%B6;Science+and+Research+Enthusiast+%F0%9F%94%AC;Indonesian+%F0%9F%8C%9F)](https://git.io/typing-svg)
-<p align='left'>I am just a junior software dev or most people call me a Professional Google Searcher 😆. Well, I'm just an IT enthusiast you know</p>
+<p align='left'>I am just a software dev or most people call me a Professional Google Searcher 😆. Well, I'm just an IT enthusiast you know</p>
 By the way, maybe you are here want to have some kind of things to know :
 
 - 👋 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
-- 👀 I’m in interested making tech collaborate well with the environment, and make useful things for mankind.
-- 🌱 I’m currently on planning how to create a WhatsApp bot using Node JS 🤖.
+- 👀 I’m in interested, in, hmm, skip this anyway.
+- 🌱 I’m currently on working on a WhatsApp bot using Node JS 🤖.
 - 💞️ I’m looking to collaborate with anyone who wants to learn together or create an open-source project
 - 📫 Don't hesitate to reach me on Instagram or Facebook! 💌 No worry, I followed you back !<br/><br/>
 
