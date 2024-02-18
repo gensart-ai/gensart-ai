@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 [![Gmail Badge](https://img.shields.io/badge/-G--Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:geneshsarretsarretret@gmail.com)](mailto:geneshsarretsarretret@gmail.com?subject=%5BFrom%20GitHub%5D&body=Hello%2C%20i%20wanna%20contact%20you%20about%20%3A) 
 [![Github Badge](https://img.shields.io/badge/gensart--ai-%20classy%20since%202017-blue?style=for-the-badge&logo=github&link=https://github.com/gensart-ai/)](https://www.github.com/gensart-ai/)<br/>
 [![github view counter](https://komarev.com/ghpvc/?username=gensart-ai&label=Viewed+:&style=for-the-badge&link=https:github.com/gensart-ai)](https://github.com/gensart-ai)<br/>
-<img style="padding-top:56.277%;position:relative;" width="200" src="https://i.ibb.co/981YpCR/XOsX.gif">
-<img style="padding-top:56.277%;position:relative;" width="200" style="padding-bottom:3rem;" src="https://i.ibb.co/5GFwSBx/6oa.gif">
-<img style="padding-top:56.277%;position:relative;" width="300" src="https://i.ibb.co/mJ8cNc6/7VE.gif">  
+<p align="center">
+  <img  width="200" src="https://i.ibb.co/981YpCR/XOsX.gif">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&vCenter=true&width=435&lines=Junior+Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Professional+Google+Searcher+%F0%9F%98%81;Instant+Noodle+Killer+%F0%9F%8D%9C;Non-Coffee+People+%F0%9F%8D%B5;Lo-Fi+Music+Lover+%F0%9F%8E%B6;Science+and+Research+Enthusiast+%F0%9F%94%AC;Indonesian+%F0%9F%8C%9F)](https://git.io/typing-svg)  
 > Relocating the occurrence of insatiable singularity of life line cross with the quantization ⚛  
