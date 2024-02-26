@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&vCenter=true&width=435&lines=Junior+Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Professional+Google+Searcher+%F0%9F%98%81;Instant+Noodle+Killer+%F0%9F%8D%9C;Non-Coffee+People+%F0%9F%8D%B5;Lo-Fi+Music+Lover+%F0%9F%8E%B6;Science+and+Research+Enthusiast+%F0%9F%94%AC;Indonesian+%F0%9F%8C%9F)](https://git.io/typing-svg)  
-> Relocating the occurrence of insatiable singularity of life line cross with the quantization ⚛  
-By the way, maybe you are here want to have some of things to know :
+> Do coding for research and fun, now it seems my financial did not allow that more freely 😅
 - 👋 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
 - 🐱‍👤 I love cats.
 - 🙄 Wife ? Kids ? Nah man, I'm 21. I'm not type of people who hurrily wants to get entangled with marriage thing
@@ -54,7 +53,7 @@ By the way, maybe you are here want to have some of things to know :
 Computer :  
 - Intel Core-i7 12000k
 - DDR5 32GB...  
-No, no no, I've been waken up from my dream, here is my computer gear :  
+No, no no, typo sorry. Here :  
 - Office laptop (I don't have my own), ASUS A456U
 - Wireless Mouse, I have my own
 - and, mousepad :)
