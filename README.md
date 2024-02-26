@@ -59,9 +59,6 @@ No, no no, typo sorry. Here :
 - and, mousepad :)
 
 Phone : `realme 8`
-### GitHub Profile Performance
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gensart-ai&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gensart-ai&theme=radical&layout=compact)
 
 ### Motivation of Work
 <details>
@@ -69,3 +66,7 @@ Phone : `realme 8`
   <img src="https://i.ibb.co/MSj6gxJ/9i1V.gif">
   <img src="https://i.ibb.co/4tBnVKN/AX9I.gif">
 </details>
+
+### GitHub Profile Performance
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gensart-ai&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gensart-ai&theme=radical&layout=compact)
