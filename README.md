@@ -15,16 +15,21 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&vCenter=true&width=435&lines=Junior+Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Professional+Google+Searcher+%F0%9F%98%81;Instant+Noodle+Killer+%F0%9F%8D%9C;Non-Coffee+People+%F0%9F%8D%B5;Lo-Fi+Music+Lover+%F0%9F%8E%B6;Science+and+Research+Enthusiast+%F0%9F%94%AC;Indonesian+%F0%9F%8C%9F)](https://git.io/typing-svg)  
-> Do coding for research and fun, now it seems my financial did not allow that more freely 😅
+> Do coding for research and fun, but now it seems my financial did not allow to do that more freely 😅
 - 👋 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
-- 🐱‍👤 I love cats.
-- 🙄 Wife ? Kids ? Nah man, I'm 21. I'm not type of people who hurrily wants to get entangled with marriage thing
+- 🐱‍👤 I do love cats.
+- 🙄 Wife ? Kids ? Nah man, I'm 21. I'm not type of people who wants hurrily to get entangled with marriage things
 - 🌱 Side, I’m currently working on wasap bot using Node JS 🤖, check this [repo](https://github.com/gensart-ai/whatsapp-bot).
 - 💞️ I love to collaborate with anyone who wants to learn together or create an open-source project
 - 📫 Don't hesitate to reach me on Instagram or Facebook! 💌 No worry, I follow you back !<br/><br/>
 
 <p>Link to my personal website :</p>
 <a href='https://gensart.super.site' target="_blank"><img alt='' src='https://img.shields.io/badge/Personal Website ↗-100000?style=for-the-badge&logo=&logoColor=white&labelColor=F72020&color=3B0EBA'/></a>
+
+### Current tech I'm learning on :
+<a href='https://typescriptlang.org' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/TypeScript-100000?style=flat-square&logo=typescript&logoColor=FFFFFF&labelColor=306998&color=306998'/></a>
+<a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://img.shields.io/badge/Node_JS-100000?style=flat-square&logo=nodedotjs&logoColor=FFFFFF&labelColor=339933&color=339933'/></a>
+<a href='https://expressjs.com/' target="_blank"><img alt='express' src='https://img.shields.io/badge/Express_JS-100000?style=flat-square&logo=express&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a>
 
 ### Languages I know recently :
 <a href='https://php.net' target="_blank"><img alt='php' src='https://img.shields.io/badge/PHP-100000?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=9263FF&color=9263FF'/></a>
