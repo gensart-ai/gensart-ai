@@ -54,6 +54,11 @@ You can click the Preview link to take a look at your changes.
 <a href='https://microsoft.com' target="_blank"><img alt='windows10' src='https://img.shields.io/badge/Windows_10-100000?style=for-the-badge&logo=windows10&logoColor=76B8DD&labelColor=083252&color=083252'/></a>
 <a href='https://debian.org' target="_blank"><img alt='debian' src='https://img.shields.io/badge/Debian_Bullseye 11-100000?style=for-the-badge&logo=debian&logoColor=A81D33&labelColor=FFFFFF&color=FFFFFF'/></a>
 
+### Achievements
+
+#### LeetCode
+[![LeetCode user gensart-ai](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgensart-ai&logo=leetcode&logoColor=yellow)](https://leetcode.com/gensart-ai/) 🤣
+
 ### My Gear
 Computer :  
 - Intel Core-i7 12000k
