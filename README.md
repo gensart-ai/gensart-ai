@@ -1,4 +1,5 @@
-
+> [!CAUTION]
+> This is my old account, I no longer do important updates here. If you want to reach me, please refer to my current <a href="https://github.com/gensart-x">GitHub</a>
 <!---
 gensart-ai/gensart-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -15,10 +16,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&vCenter=true&width=435&lines=Junior+Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Professional+Google+Searcher+%F0%9F%98%81;Instant+Noodle+Killer+%F0%9F%8D%9C;Non-Coffee+People+%F0%9F%8D%B5;Lo-Fi+Music+Lover+%F0%9F%8E%B6;Science+and+Research+Enthusiast+%F0%9F%94%AC;Indonesian+%F0%9F%8C%9F)](https://git.io/typing-svg)  
-> Do coding for research and fun, but now it seems my financial did not allow to do that more freely 😅
+> Do coding for research and fun, but now it seems my finances do not allow me to do that more freely 😅
 - 👋 God blessed me with the name **Genesaret Johnes**. Usually, people called me Genes.
 - 🐱‍👤 I do love cats.
-- 🙄 Wife ? Kids ? Nah man, I'm 21. I'm not type of people who wants hurrily to get entangled with marriage things
+- 🙄 Wife? Kids? Nah, man, I'm not the type of person who wants hurriedly to get entangled with marriage things
 - 🌱 Side, I’m currently working on wasap bot using Node JS 🤖, check this [repo](https://github.com/gensart-ai/whatsapp-bot).
 - 💞️ I love to collaborate with anyone who wants to learn together or create an open-source project
 - 📫 Don't hesitate to reach me on Instagram or Facebook! 💌 No worry, I follow you back !<br/><br/>
